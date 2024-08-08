@@ -12,7 +12,7 @@ import {
 import React from "react";
 import { Doughnut, Line } from "react-chartjs-2";
 import {
-  orange,
+  green,
   orangeLight,
   purple,
   purpleLight,
